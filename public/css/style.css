@@ -1,0 +1,79 @@
+body{
+    background-color:rgb(41, 40, 40);
+
+}
+h1{
+    color: white;
+}
+.card{
+    margin-top:5vh;
+}
+nav{
+    height: 30px;
+}
+.card-header{
+    margin:0;
+    background-color: rgb(29, 28, 28);
+    color: white;
+}
+.navbar-brand{
+    margin:-20px;
+    margin-left: 20px;
+    color: #fff;
+}
+.form-control{
+    margin:15px;
+    font-size:15px;
+}
+
+.btn{
+    margin:  10px 10px;
+}
+
+.card-body{
+    background-color: rgb(29, 28, 28);
+    
+    color: white;
+    font-size:18px;
+    
+}
+.card-footer{
+    color: black;
+    font-size: 15px;
+
+}
+.resposta{
+    background-color: rgb(29, 28, 28);
+    margin-left: 5px;
+    color :white;
+}
+.desc-titulo{
+    border: 2px solid #fff;
+}
+.desc-pergunta{
+
+    border: 2px solid #fff;
+    height: 200px;
+}
+textarea{
+    height: 150px;
+    width: 100%;
+    
+    
+
+}
+.desc-title{
+   
+    border: 2px solid #fff;
+}
+h3{
+    color: white;
+}
+
+.area{
+    background-color:rgb(29, 28, 28);
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    border: 2px solid #fff;
+}
